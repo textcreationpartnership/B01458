@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The authors of the first case of salt-petre, humbly offer the following particulars as reasons against passing the bill</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01458</idno>
+            <idno type="STC">Wing A4265</idno>
+            <idno type="STC">ESTC R170403</idno>
+            <idno type="EEBO-CITATION">52211887</idno>
+            <idno type="OCLC">ocm 52211887</idno>
+            <idno type="VID">175413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175413)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2732:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The authors of the first case of salt-petre, humbly offer the following particulars as reasons against passing the bill</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Half-title on p. [2]: Additional case of salt-petre, by the authors of the first.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saltpeter industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175413:1" rendition="simple:additions"/>
+            <head>The Authors of the Firſt CASE of <hi>SALT-PETRE,</hi> Humbly offer the following Particu<g ref="char:EOLhyphen"/>lars as <hi>Reaſons</hi> againſt paſſing the <hi>Bill.</hi>
+            </head>
+            <div type="part">
+               <head>As to the Occaſions of the <hi>Crown</hi> and <hi>Merchants</hi> (upon which the Bill is grounded) and as to Supplying <hi>Ireland</hi> and the <hi>Weſt-Indies</hi> with <hi>Gun-powder</hi> (mentioned in the laſt <hi>Salt-Petre Caſe,</hi> delivered by the Proſecutors of the Bill,)</head>
+               <p>
+                  <hi>FIrſt,</hi> That none of them do want <hi>Salt Petre.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> If they ſhould want Gun-powder, it is cheaper to buy it in <hi>Holland,</hi> than to import <hi>Salt Petre</hi> from thence, and make it into Gunpowder in <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> That the paſſing this Bill will raiſe <hi>Salt Petre</hi> (and conſequently Gunpowder) in <hi>Holland</hi> near <hi>Cent. per Cent.</hi> to the prejudice of thoſe who have occaſion for it.</p>
+            </div>
+            <div type="part">
+               <head>As to the Tradeſmen who have ſince petitioned for paſſing the Bill,</head>
+               <p>
+                  <hi>Firſt,</hi> They did not Petition of themſelves, untill they were ſolicited thereunto by the Proſecutors of this Bill.</p>
+               <p>
+                  <hi>Secondly,</hi> That ſome of them uſe no <hi>Petre,</hi> and others inconſiderable quantities, and no Manufactures are ſent from hence to <hi>Holland</hi> for want of <hi>Petre,</hi> there being enough in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to ſupply them.</p>
+            </div>
+            <div type="part">
+               <head>As to future Supplyes,</head>
+               <p>
+                  <hi>Firſt,</hi> The <hi>Eaſt-India</hi> Company are to ſupply the Crown with 500 Tuns yearly, and ſeveral of their Ships are Arrived, and others daily expected.</p>
+               <p>
+                  <hi>Secondly,</hi> That ſeveral Entrys have been lately made in the <hi>Cuſtom-houſe</hi> of <hi>Salt-Petre</hi> Im<g ref="char:EOLhyphen"/>ported from <hi>Hamburgh,</hi> as the Manufacture of <hi>Germany,</hi> from whence more is Expected.</p>
+               <p>
+                  <hi>Thirdly,</hi> That the <hi>Salt-Petre-Work</hi> at <hi>Iſlington</hi> is capable of Producing great Quantities, and is ſo acknowledged by all Impartial men who ſee and underſtand it; and is in it ſelf an Evidence that it could not be ſooner finiſhed, notwithſtanding all the falſe Aſperſions caſt upon the Owners of it, as <hi>Patentees, Impoſtors,</hi> and <hi>Stock-Jobbers.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>As to the Deſign of the Bill:</head>
+               <p>
+                  <hi>Firſt,</hi> It is in part to Repeal the Act of 12 <hi>Car.</hi> 2. <hi>Cap.</hi> 18. (for <hi>Increaſing our Shipping and Navigation,</hi>) on purpoſe to Inrich two or three men. For a Merchant (whoſe <hi>Dutch</hi> Factors Name is <hi>Poole</hi>) having bought 600 Tuns of <hi>Petre</hi> at the Sale at <hi>Amſterdam</hi> (which was in the beginning of this Seſſions) at about 56 <hi>l. per</hi> Tun, brought in this Bill to raiſe the Price of <hi>Salt-Petre</hi> there, which it hath done to about 76 <hi>l. per</hi> Tun: And if this Bill paſſes, it is expected at 90, or 100 <hi>l. per</hi> Tun. For there are ſeveral others who wait for the paſſing of this Bill, and thereupon Immediately to Buy up the <hi>Petre</hi> in <hi>Holland;</hi> ſo that the King is Foreſtalled, and if he ſhould want, muſt pay what Price they pleaſe.</p>
+               <p>
+                  <hi>Secondly,</hi> That this Merchant and two or three <hi>Stock-Jobbers</hi> (ſince taken into his Aſſi<g ref="char:EOLhyphen"/>ſtance, who had before given out Ginnyes in the Nature of Laying of Wagers, That the Stock in <hi>Iſlington Salt-Petre-VVorks</hi> would fall) are the only Proſecutors of this Bill, and the Crown, Merchants and Tradeſmen (who ought to have been Principals in this Cauſe) are only Subpena'd in as Evidence to Inforce the Bill.</p>
+               <p>
+                  <hi>If theſe things are true in Fact, it is humbly hoped that (notwithſtanding all the ſelf-contradicting Arguments in the laſt</hi> Salt-Petre Caſe) <hi>the Honourable</hi> Houſe of Commons <hi>will ſee no Reaſons for the paſſing of this Bill.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:175413:2"/>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> OF <hi>Salt-Petre,</hi> BY THE Authors of the Firſt.</p>
+            <pb facs="tcp:175413:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
